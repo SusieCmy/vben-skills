@@ -4,6 +4,12 @@
 
 一个强大的技能，用于在 Vue Vben Admin 项目中生成完整的 CRUD 模块。
 
+## 安装
+
+```bash
+npx skills add https://github.com/SusieCmy/vben-skills --skill vue-vben-crud
+```
+
 ## 功能特性
 
 - 🚀 完整 CRUD 生成：页面、表单、表格、API 接口、路由

@@ -4,6 +4,12 @@
 
 A powerful skill for generating complete CRUD modules in Vue Vben Admin projects.
 
+## Installation
+
+```bash
+npx skills add https://github.com/SusieCmy/vben-skills --skill vue-vben-crud
+```
+
 ## Features
 
 - 🚀 Complete CRUD generation: pages, forms, tables, API interfaces, routes
