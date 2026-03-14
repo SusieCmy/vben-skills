@@ -1,5 +1,7 @@
 # Vue Vben CRUD Skill
 
+[English](README.md) | [中文](README.zh-CN.md)
+
 A powerful skill for generating complete CRUD modules in Vue Vben Admin projects.
 
 ## Features
